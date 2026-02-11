@@ -1,5 +1,3 @@
-# gathaspa.github.io
-
 © 2026 Emanuele Gasparini. All rights reserved.
 
 All artworks in this repository are protected by copyright.
